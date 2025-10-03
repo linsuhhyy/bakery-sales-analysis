@@ -70,7 +70,7 @@ Top combinations:
 
 ---
 
-## 💡 Business Recommendations  
+## Business Recommendations  
 
 1. **Leverage COUPE as a traffic driver**  
    - Extremely popular but low revenue.  
@@ -94,20 +94,4 @@ Top combinations:
 
 6. **Upsell premium categories**  
    - Viennoiseries and confiseries generate strong revenue per unit.  
-   - Feature prominently in displays and cross-sell with traffic drivers.  
-
----
-
-## Example Visuals  
-
-![Top Products Treemap]()  
-
-![Hourly Sales Heatmap](images/hourly_heatmap.png)  
-
-![Cheap Items: Quantity vs Revenue](images/cheap_items_qty_vs_rev.png)  
-
-![Top Product Pairs](images/product_pairs.png)  
-
-![Weekly Revenue Trend](images/weekly_revenue_trend.png)  
-
-![Monthly Revenue Trend](images/monthly_revenue.png) 
+   - Feature prominently in displays and cross-sell with traffic drivers. 
